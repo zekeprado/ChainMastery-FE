@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "https://chainmastery-web.azurewebsites.net/static/css/main.9fb8775d.chunk.css",
+    "main.js": "https://chainmastery-web.azurewebsites.net/static/js/main.39586a4b.chunk.js",
+    "main.js.map": "https://chainmastery-web.azurewebsites.net/static/js/main.39586a4b.chunk.js.map",
+    "runtime-main.js": "https://chainmastery-web.azurewebsites.net/static/js/runtime-main.736d2e54.js",
+    "runtime-main.js.map": "https://chainmastery-web.azurewebsites.net/static/js/runtime-main.736d2e54.js.map",
+    "static/css/2.c9be7405.chunk.css": "https://chainmastery-web.azurewebsites.net/static/css/2.c9be7405.chunk.css",
+    "static/js/2.5880ca06.chunk.js": "https://chainmastery-web.azurewebsites.net/static/js/2.5880ca06.chunk.js",
+    "static/js/2.5880ca06.chunk.js.map": "https://chainmastery-web.azurewebsites.net/static/js/2.5880ca06.chunk.js.map",
+    "index.html": "https://chainmastery-web.azurewebsites.net/index.html",
+    "static/css/2.c9be7405.chunk.css.map": "https://chainmastery-web.azurewebsites.net/static/css/2.c9be7405.chunk.css.map",
+    "static/css/main.9fb8775d.chunk.css.map": "https://chainmastery-web.azurewebsites.net/static/css/main.9fb8775d.chunk.css.map",
+    "static/js/2.5880ca06.chunk.js.LICENSE.txt": "https://chainmastery-web.azurewebsites.net/static/js/2.5880ca06.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "https://chainmastery-web.azurewebsites.net/static/media/bg.e6cfe0d3.jpg",
+    "static/media/style.css": "https://chainmastery-web.azurewebsites.net/static/media/et-line.d59b2385.woff",
+    "static/media/bnb.8a8dec8d.png": "https://chainmastery-web.azurewebsites.net/static/media/bnb.8a8dec8d.png",
+    "static/media/default.73a0bc1f.png": "https://chainmastery-web.azurewebsites.net/static/media/default.73a0bc1f.png",
+    "static/media/font-awesome.min.css": "https://chainmastery-web.azurewebsites.net/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo.8103b2d8.png": "https://chainmastery-web.azurewebsites.net/static/media/logo.8103b2d8.png",
+    "static/media/market-place-banner.b0089f2f.png": "https://chainmastery-web.azurewebsites.net/static/media/market-place-banner.b0089f2f.png",
+    "static/media/metamask.20317c63.svg": "https://chainmastery-web.azurewebsites.net/static/media/metamask.20317c63.svg",
+    "static/media/nft-pic.92c4994b.png": "https://chainmastery-web.azurewebsites.net/static/media/nft-pic.92c4994b.png",
+    "static/media/slick-theme.css": "https://chainmastery-web.azurewebsites.net/static/media/slick.c94f7671.ttf",
+    "static/media/slider-pic.79ab4f27.png": "https://chainmastery-web.azurewebsites.net/static/media/slider-pic.79ab4f27.png",
+    "static/media/wallet.77272189.png": "https://chainmastery-web.azurewebsites.net/static/media/wallet.77272189.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.736d2e54.js",
+    "static/css/2.c9be7405.chunk.css",
+    "static/js/2.5880ca06.chunk.js",
+    "static/css/main.9fb8775d.chunk.css",
+    "static/js/main.39586a4b.chunk.js"
+  ]
+}
